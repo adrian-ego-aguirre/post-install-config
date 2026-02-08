@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket Logo"/>
 </p>
 
-<h1 align="center">osTicket – Post-Installation Configuration Lab</h1>
+<h1 align="center">osTicket – Phase 2: Post-Installation Configuration</h1>
 
 <p>
 This lab documents the post-installation configuration of <strong>osTicket</strong>, transforming the platform from an initial (Alpha) installation into a fully functional help desk capable of handling real-world support tickets, users, and service workflows.
@@ -29,7 +29,7 @@ This lab documents the post-installation configuration of <strong>osTicket</stro
 
 ---
 
-<h1>📌 Phase 2 Overview – System Configuration</h1>
+<h1>📌 Phase 2 Overview – Post-Installation Configuration</h1>
 
 <p>
 <strong>Goal:</strong> Configure core osTicket components to support structured ticket intake, prioritization, escalation, and resolution in a simulated enterprise help desk environment.
