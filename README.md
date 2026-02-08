@@ -60,51 +60,62 @@ This phase focuses on configuring internal workflows, access controls, and servi
 <ul>
 
   <li>
+  <p>
     <strong>Configure Roles</strong>
     <ul>
       <li>Navigate to: <em>Admin Panel → Agents → Roles</em></li>
       <li>Create an administrative role with full permissions (e.g., <strong>Supreme Admin</strong>).</li>
       <li>Assign permissions to manage tickets, users, and system settings.</li>
     </ul>
+   </p>
   </li>
 
   <li>
+  <p>
     <strong>Configure Departments</strong>
     <ul>
       <li>Navigate to: <em>Admin Panel → Agents → Departments</em></li>
       <li>Create a department named <strong>System Administrators</strong>.</li>
       <li>Assign department-level visibility and escalation rules.</li>
     </ul>
+  </p>
   </li>
 
   <li>
+  <p>
     <strong>Configure Teams</strong>
     <ul>
       <li>Navigate to: <em>Admin Panel → Agents → Teams</em></li>
       <li>Create <strong>Level I Support</strong> and <strong>Level II Support</strong> teams.</li>
       <li>Assign agents based on escalation level.</li>
     </ul>
+  </p>
   </li>
 
   <li>
+  <p>
     <strong>Configure Agents (Support Staff)</strong>
     <ul>
       <li>Navigate to: <em>Admin Panel → Agents → Add New</em></li>
       <li>Create agents (e.g., Jane, John).</li>
       <li>Assign roles, departments, and teams accordingly.</li>
     </ul>
+  </p>
   </li>
 
   <li>
+  <p>
     <strong>Configure Users (End Customers)</strong>
     <ul>
       <li>Navigate to: <em>Agent Panel → Users → Add New</em></li>
       <li>Create end users (e.g., Karen, Ken).</li>
       <li>Verify users can submit tickets successfully.</li>
     </ul>
+  </p>
   </li>
 
   <li>
+  <p>
     <strong>Configure Service Level Agreements (SLAs)</strong>
     <p>
       SLAs define expected response and resolution times based on ticket severity. Proper SLA configuration ensures high-priority incidents receive immediate attention.
@@ -119,9 +130,11 @@ This phase focuses on configuring internal workflows, access controls, and servi
         </ul>
       </li>
     </ul>
+  </p>
   </li>
 
   <li>
+  <p>
     <strong>Configure Help Topics</strong>
     <p>
       Help topics categorize incoming tickets and automate routing to the appropriate department or team.
@@ -137,6 +150,7 @@ This phase focuses on configuring internal workflows, access controls, and servi
         </ul>
       </li>
     </ul>
+  </p>
   </li>
 
 </ul>
