@@ -171,6 +171,16 @@ Help topics categorize incoming tickets and automate routing to the appropriate 
 This phase completed the transformation of osTicket from a basic installation into a fully operational help desk system. By configuring roles, departments, teams, agents, users, SLAs, and help topics, the platform now supports structured ticket intake, prioritization, and resolution workflows.
 </p>
 
+---
+
+<h2>➡️ Next Phase</h2>
+
 <p>
-This configuration reflects real-world IT service management practices and prepares the environment for handling live support requests efficiently and securely.
+Continue to <strong>Phase 3: Ticket Lifecycle & SLAs</strong>, where the full lifecycle of a ticket—from intake to resolution—is demonstrated using SLAs, escalation, and agent workflows.
+</p>
+
+<p>
+<a href="https://github.com/adrian-ego-aguirre/ticket-lifecycle">
+  ➜ Go to Phase 3: Ticket Lifecycle & SLAs
+</a>
 </p>
